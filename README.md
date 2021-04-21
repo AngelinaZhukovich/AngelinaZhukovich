@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @AngelinaZhukovich
-  - 👀 I’m interested in  Frontand.
-  - 🌱 I’m currently learning .
 - 📫 How to reach me : angelinka04@mail.ru, https://www.instagram.com/angelina.zhukovich/
 
 <!---
