@@ -1,6 +1,8 @@
 - 👋 Hi, I’m @AngelinaZhukovich
 - 📫 How to reach me :
 
+https://angelinazhukovich.github.io/rsschool-cv/
+
 * phone: +375292011407 (Viber, Telegram, WhatsApp), 
 * mail: <angelinka04@mail.ru>,
 * [Linkedin](linkedin.com/in/ангелина-жукович-b22a36211),
